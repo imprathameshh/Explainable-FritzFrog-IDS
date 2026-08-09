@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Large datasets
+data/
+
+# Trained models
+models/
+
+# Generated results
+results/
+
+# Large file types
+*.csv
+*.parquet
+*.joblib
+*.pkl
+*.h5
+*.hdf5
+
+# Logs
+*.log
